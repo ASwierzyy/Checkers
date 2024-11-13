@@ -1,0 +1,6 @@
+#ifndef PROJECTJNI1_LIBRARY_H
+#define PROJECTJNI1_LIBRARY_H
+
+void hello();
+
+#endif //PROJECTJNI1_LIBRARY_H
